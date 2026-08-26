@@ -1,6 +1,3 @@
-# file-handling-through-python
-Haan, README ke andar thora detailed likhna best hai. Tumhare **Election Analysis Python project** ke liye ye ready-to-use README hai:
-
 # Election Data Analysis Using Python
 
 ##  Project Overview
